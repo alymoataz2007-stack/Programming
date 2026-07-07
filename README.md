@@ -28,7 +28,7 @@ A console-based banking application developed as part of the Programming (1) cou
 A Java implementation of the FSM minimization algorithm using the implication table method.
 
 #### Features
-- DFA state minimization
+- FSM state minimization
 - Implication table construction
 - Equivalent state detection
 - Generation of the minimized FSM
