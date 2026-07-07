@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1766879231 source:c:\users\loq\onedrive\desktop\test\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"BANK.h"
+
+1766870529 c:\users\loq\onedrive\desktop\test\test\bank.h
+
+1766930346 source:c:\users\loq\onedrive\desktop\test\test\bank.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"BANK.h"
+
+1767131857 source:c:\users\loq\onedrive\desktop\c\test\test\bank.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"BANK.h"
+
+1766874129 c:\users\loq\onedrive\desktop\c\test\test\bank.h
+
+1766882831 source:c:\users\loq\onedrive\desktop\c\test\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"BANK.h"
+
